@@ -1,0 +1,6 @@
+id=k60_sms_guard
+name=K60 后台短信限制
+version=v1.0.0
+versionCode=100
+author=Codex
+description=限制已识别的后台短信入口，关闭 5G 消息自动回落，保留默认短信应用的收发权限。
